@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ranking Results</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h2>Ranking Results</h2>
+    {% if ranked_resumes %}
+    <table>
+        <thead>
+            <tr>
+                <th>Resume File</th>
+                <th>Score</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for file, score in ranked_resumes %}
+            <tr>
+                <td>{{ file }}</td>
+                <td>{{ "%.2f"|format(score * 100) }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    {% else %}
+    <p>No resumes found or processed.</p>
+    {% endif %}
+    <a href="/">← Go Back</a>
+</body>
+</html>

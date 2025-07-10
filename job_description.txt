@@ -1,0 +1,75 @@
+DEEKSHITH P KUMAR
+Bachelor of Engineering (Computer Science and Engineering)
+
+deekshipkss@gmail.com
+https://github.com/deekshith0707
+Mysore, Karnataka
+
+Summary
+======
+I am a proactive computer science student with hands-on experience in software development and a keen interest in machine learning and web technologies. My competencies include programming languages such as Python and Java, as well as frameworks like React and Node.js. I have developed strong problem-solving skills and effective communication abilities through various projects, where I worked collaboratively in teams. My current focus is on building innovative applications that enhance user experience
+
+
+Education
+======
+Bachelor of Engineering
+The National Institute of Engineering
+08/2022 - 01/1970
+Mysore, Karnataka
+
+12th
+Master’s PU College
+06/2020 - 06/2022
+Hassan
+
+10th
+Vijaya School
+06/2018 - 06/2020
+Hassan
+
+
+Skills
+======
+ - Redis
+
+
+Training / Courses
+======
+Data Structure and Algorithms
+Key topics covered in these courses include various programming paradigms, design principles, and algorithmic strategies
+
+Database Management System
+Study of database concepts including storage, retrieval, and management of data
+
+Operating Systems
+Understanding of operating system concepts and their functions
+
+OOPs using Java
+Focus on object-oriented programming using Java and design practices
+
+Analysis and Design of Algorithms
+Analysis and design methodologies for algorithmic problem-solving
+
+Computer Networks
+Study of computer networking including protocols and communication
+
+
+Projects
+======
+UrbanNest
+01/2023 - 01/1970
+Not specified
+UrbanNest is a comprehensive e-commerce platform
+ - Designed a robust e-commerce system with product and category management, shopping cart functionality, and checkout using Stripe API
+ - Implemented MongoDB for scalable data storage, Redis for caching and session management, and JWT-based authentication for secure user access
+ - Built a responsive frontend using Tailwind CSS, prioritizing security, performance, and real-time data updates
+
+AI Image Generator
+01/2023 - 01/1970
+Not specified
+AI Image Generator project enables the creation of images based on user input
+ - Built an application using Python and Flask for efficient handling of user requests
+ - Integrated with a pre-trained deep learning model to generate high-quality, contextually accurate images
+ - Designed a simple front-end for user interaction with the application
+ - Created RESTful APIs for communication between the front-end and back-end
+
